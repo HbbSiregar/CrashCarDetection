@@ -1,0 +1,4 @@
+Berikut ini adalah 
+link deployment : https://huggingface.co/spaces/batakjawa/Crash_Car_Class
+link dataset : https://www.kaggle.com/datasets/prajwalbhamere/car-damage-severity-dataset/data
+link model : https://huggingface.co/spaces/batakjawa/Crash_Car_Class/blob/main/src/CNNCrashCarModel.keras
